@@ -18,7 +18,7 @@ package testsuite
 import (
 	"time"
 
-	"github.com/quickfixgo/quickfix"
+	"github.com/fintake/quickfix"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
